@@ -70,3 +70,4 @@ requirements.txt
 - Belirlenen hatırlatma tarihinde otomatik e-posta gönderimi
 - Sözleşme yenileme süreçlerinin gözden kaçmasını engeller
 
+
