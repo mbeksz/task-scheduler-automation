@@ -69,3 +69,4 @@ requirements.txt
 - Sözleşme arşivi ve veritabanı kaydı
 - Belirlenen hatırlatma tarihinde otomatik e-posta gönderimi
 - Sözleşme yenileme süreçlerinin gözden kaçmasını engeller
+
